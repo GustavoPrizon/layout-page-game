@@ -1,0 +1,14 @@
+body{
+    font-family: 'Maven Pro', sans-serif;
+    color: #fff;
+    min-width: 310px;
+    background-color: #000;
+}
+
+@media (min-width:615px){
+    body{
+        background-image: url(../img/bg.jpg);
+        background-repeat: no-repeat;
+        background-size: 110%;
+    }
+}
